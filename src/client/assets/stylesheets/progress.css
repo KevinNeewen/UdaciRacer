@@ -28,17 +28,3 @@ section#accelerate button {
   font-weight: bolder;
   font-size: 70px;
 }
-
-/* -------------------  TABLET  --------------------- */
-@media (min-width: 768px) {
-}
-
-/* -------------------  DESKTOP  -------------------- */
-
-@media (min-width: 1224px) {
-}
-
-/* -------------------  LARGE SCREENS  -------------- */
-
-@media (min-width: 1824px) {
-}
